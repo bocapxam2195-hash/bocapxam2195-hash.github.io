@@ -1,4 +1,4 @@
-vào there, I'm Daniel Ha Trung Dung 👋
+meet Daniel , Ha Trung Dung
 <p align="center">
 <img src="https://i.imgur.com/8Q9gL3r.jpeg" alt="Portrait of Daniel Ha Trung Dung" width="200px" style="border-radius:50%; border: 3px solid #FFD700;"/>
 </p>
