@@ -1,105 +1,72 @@
-<html.index>
-<html lang=enn" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daniel Ha Trung Dung - Professional Portfolio</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #1A1A1A; /* Slightly darker for more depth */
-            color: #E5E5E5;
-        }
-        h1, h2, h3, h4, h5, h6, .nav-link {
-            font-family: 'Cormorant Garamond', serif;
-        }
-        .text-gold {
-            color: #FFD700;
-        }
-        .border-gold {
-            border-color: #FFD700;
-        }
-        .bg-gold {
-            background-color: #FFD700;
-        }
-        .royal-hr {
-            border: 0;
-            height: 1px;
-            background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 215, 0, 0.5), rgba(255, 255, 255, 0));
-        }
-        .photo {
-            width: 200px;
-            height: 200px;
-            border: 3px solid #FFD700;
-            object-fit: cover;
-            border-radius: 9999px;
-            box-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
-        }
-        .timeline-item::before {
-            content: '';
-            position: absolute;
-            width: 15px;
-            height: 15px;
-            border-radius: 50%;
-            background-color: #1A1A1A;
-            border: 3px solid #FFD700;
-            top: 0;
-            left: -8px;
-            z-index: 1;
-        }
-        /* Animation for fade-in on scroll */
-        .fade-in-section {
-            opacity: 0;
-            transform: translateY(20px);
-            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-        }
-        .fade-in-section.is-visible {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    </style>
-</head>
-<body class="antialiased">
-
-    <!-- Header & Navigation -->
-    <nav class="bg-black bg-opacity-50 backdrop-blur-sm sticky top-0 z-50">
-        <div class="container mx-auto max-w-6xl px-6 py-3 flex justify-between items-center">
-            <a href="#hero" class="text-2xl font-bold text-gold tracking-widest">DANIEL H.</a>
-            <div class="hidden md:flex space-x-8">
-                <a href="#summary" class="nav-link text-lg text-gray-300 hover:text-gold transition-colors duration-300">Summary</a>
-                <a href="#skills" class="nav-link text-lg text-gray-300 hover:text-gold transition-colors duration-300">Skills</a>
-                <a href="#experience" class="nav-link text-lg text-gray-300 hover:text-gold transition-colors duration-300">Experience</a>
-                <a href="#contact" class="nav-link text-lg text-gray-300 hover:text-gold transition-colors duration-300">Contact</a>
-            </div>
-             <div class="md:hidden">
-                <!-- Mobile menu can be added here if needed -->
-            </div>
-        </div>
-    </nav>
-
-    <!-- Main Content -->
-    <main class="container mx-auto max-w-6xl p-6 md:p-12">
-
-        <!-- Hero Section -->
-        <section id="hero" class="text-center min-h-[80vh] flex flex-col justify-center items-center py-20 fade-in-section">
-            <img src="http://googleusercontent.com/file_content/1" alt="Portrait of Daniel Ha Trung Dung" class="photo mx-auto mb-8">
-            <h1 class="text-5xl md:text-7xl font-bold tracking-widest text-gold">MEET DANIEL.</h1>
-            <p class="mt-4 text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto" style="font-family: 'Cormorant Garamond', serif;">A storyteller in luxury retail, an e-commerce pioneer, and a leader in customer experience.</p>
-        </section>
-
-        <div class="royal-hr my-16"></div>
-
-        <!-- Professional Summary Section -->
-        <section id="summary" class="py-16 fade-in-section">
-            <h2 class="text-4xl text-center font-semibold mb-10 tracking-widest">PROFESSIONAL SUMMARY</h2>
-            <p class="text-center max-w-4xl mx-auto leading-relaxed text-lg text-gray-300">
-                A dynamic, result-oriented professional with 10 years of international experience. Combines strong leadership, sales acumen, and customer experience expertise developed through managing successful businesses in Malaysia. From being promoted to Restaurant Manager within three months to launching and scaling an e-commerce venture during a global pandemic, Daniel excels at adapting to new challenges, streamlining operations, and driving growth. 
-                <br><br>
+Hi there, I'm Daniel Ha Trung Dung 👋
+<p align="center">
+<img src="https://i.imgur.com/8Q9gL3r.jpeg" alt="Portrait of Daniel Ha Trung Dung" width="200px" style="border-radius:50%; border: 3px solid #FFD700;"/>
+</p>
+<h1 align="center">Meet Daniel.</h1>
+<p align="center">
+<strong>A storyteller in luxury retail, an e-commerce pioneer, and a leader in customer experience.</strong>
+</p>
+🤵 About Me
+A dynamic, result-oriented professional with 10 years of international experience. I combine strong leadership, sales acumen, and customer experience expertise developed through managing successful businesses in Malaysia. From being promoted to Restaurant Manager within three months to launching and scaling an e-commerce venture during a global pandemic, I excel at adapting to new challenges, streamlining operations, and driving growth.
+Since October 2024, I have served as the very first Tom Ford Beauty Advisor in Vietnam under IPP Travel Retail in collaboration with The Estée Lauder Companies (ELC). I deliver premium consultations through storytelling and bespoke service, redefining the customer journey in luxury travel retail.
+🚀 Professional Journey
+<details>
+<summary><strong>Tom Ford Beauty Advisor</strong> @ <i>IPP Travel Retail (ELC)</i></summary>
+<br>
+<ul>
+<li><b>Period:</b> Oct 2024 - Present</li>
+<li><b>Role:</b> Pioneering the role as Vietnam's first Tom Ford Beauty Advisor in travel retail, crafting bespoke luxury experiences through expert consultation and compelling storytelling.</li>
+</ul>
+</details>
+<details>
+<summary><strong>Founder / E-commerce Entrepreneur</strong> @ <i>Ở NHÀ CÁI GÌ CŨNG CÓ</i></summary>
+<br>
+<ul>
+<li><b>Period:</b> 2019 - 2023</li>
+<li><b>Role:</b> Launched and scaled a successful e-commerce business from scratch using only an iPad, serving the Vietnamese community and beyond through targeted marketing and exceptional service. Led community aid initiatives, including flood relief in Pahang (2022).</li>
+</ul>
+</details>
+<details>
+<summary><strong>Restaurant Manager</strong> @ <i>Local Chinese Restaurant, Malaysia</i></summary>
+<br>
+<ul>
+<li><b>Period:</b> 2016 - 2019</li>
+<li><b>Achievement:</b> Rapidly promoted from Waiter to Manager in 3 months for exceptional performance.</li>
+<li><b>Role:</b> Directed all daily operations, managed staff, and streamlined workflows to enhance service speed and customer satisfaction.</li>
+</ul>
+</details>
+<details>
+<summary><strong>Kitchen Chief Assistant</strong> @ <i>Special Local Chinese Restaurant, Malaysia</i></summary>
+<br>
+<ul>
+<li><b>Period:</b> 2014 - 2016</li>
+<li><b>Role:</b> Coordinated a high-volume kitchen, supporting two head chefs and mastering the foundational principles of professional culinary operations.</li>
+</ul>
+</details>
+🛠️ Core Competencies
+| Leadership & Management | Sales & Customer Experience | Technical Proficiency |
+|---|---|---|
+| Staff Supervision & Training | E-commerce & Online Sales | Apple Ecosystem (macOS, iOS) |
+| Operations Optimization | Luxury Retail Consultation | Photo Editing Software |
+| Problem Resolution | Relationship Building | Microsoft Excel |
+| Workflow Management | Bespoke Service & Storytelling | Tech-driven Process Improvement |
+Languages
+ * Fluent: English & Vietnamese
+ * Basic Communication: Malay, Cantonese & Mandarin
+📫 Get In Touch
+<p align="center">
+<a href="mailto:hedevilbynight@icloud.com">
+<img src="https://img.shields.io/badge/Email-hedevilbynight@icloud.com-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/your-linkedin-profile-url"> <!-- Thay link LinkedIn của bạn vào đây -->
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bocapxam2195-hash&show_icons=true&theme=dark&border_color=FFD700&text_color=E5E5E5&title_color=FFD700&icon_color=FFD700" alt="Daniel's GitHub Stats" />
+</p>
+<br><br>
                 <strong class="text-gold">Since October 2024, Daniel has served as the very first Tom Ford Beauty Advisor in Vietnam under IPP Travel Retail in collaboration with The Estée Lauder Companies (ELC). He delivers premium consultations through storytelling and bespoke service, redefining the customer journey in luxury travel retail.</strong>
             </p>
         </section>
