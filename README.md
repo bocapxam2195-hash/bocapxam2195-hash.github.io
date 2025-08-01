@@ -1,4 +1,4 @@
-html.index
+<html.index>
 <html lang=enn" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
