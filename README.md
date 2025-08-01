@@ -1,4 +1,4 @@
-Hi there, I'm Daniel Ha Trung Dung 👋
+vào there, I'm Daniel Ha Trung Dung 👋
 <p align="center">
 <img src="https://i.imgur.com/8Q9gL3r.jpeg" alt="Portrait of Daniel Ha Trung Dung" width="200px" style="border-radius:50%; border: 3px solid #FFD700;"/>
 </p>
@@ -32,7 +32,7 @@ Since October 2024, I have served as the very first Tom Ford Beauty Advisor in V
 <ul>
 <li><b>Period:</b> 2016 - 2019</li>
 <li><b>Achievement:</b> Rapidly promoted from Waiter to Manager in 3 months for exceptional performance.</li>
-<li><b>Role:</b> Directed all daily operations, managed staff, and streamlined workflows to enhance service speed and customer satisfaction.</li>
+<li><b>Role:</b> Directed all daily operations,managedd staff, and streamlined workflows to enhance service speed and customer satisfaction.</li>
 </ul>
 </details>
 <details>
@@ -59,7 +59,7 @@ Languages
 <img src="https://img.shields.io/badge/Email-hedevilbynight@icloud.com-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href=https://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b1320"> <!-- Thay link LinkedIn của bạn vào đây -->
+<a href=https://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b1320"> <srcmgttpstps://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b132)>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
