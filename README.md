@@ -59,7 +59,7 @@ Languages
 <img src="https://img.shields.io/badge/Email-hedevilbynight@icloud.com-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href=https://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b1320"> <srcmgttpstps://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b132)>
+<a href="https://www.linkedin.com/in/h%C3%A0-d%C5%A9ng-7189b1320" target="_blank">LinkedIn</a>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
